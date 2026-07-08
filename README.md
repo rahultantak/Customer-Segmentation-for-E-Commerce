@@ -47,11 +47,18 @@ What did your research find?
 8. Silhouette scores were found to be in mid-range though not very close to 1
 9. Davies-Bouldin index was found to be relatively high and not close to 0.
 10. The clustering via KMeans method showed more clear disctnction / boundaris of the clusters for the same set of features. This was also supprted by better values for the metrics - Silhouette scores and Davies-Bouldin Index.
+11. This project successfully executed a comprehensive data science workflow, encompassing extensive Exploratory Data Analysis (EDA), data cleaning, and robust feature engineering on customer shopping trend data.
+12. Key achievements include the successful identification and handling of data quality issues, the creation of insightful new features like 'Purchase Recency' and 'Avg Spend Per Purchase', and the effective application of clustering techniques.
+13. Successfully segmented customers into 3 distinct groups using both K-Means and Hierarchical clustering. K-Means emerged as the preferred model, demonstrating clearer cluster boundaries and better performance based on Silhouette scores and Davies-Bouldin Index.
+
 
 #### Next steps
 What suggestions do you have for next steps?
-Implement DBSCAN apglrothm for clustering and compare it with K-Meand and Hierarchical clustering
-If possible, build GUI visuals of the Clusters using tools like PowerBI or Excel.
+
+1. Deep Dive into Customer Segments: Conduct an in-depth analysis of each identified customer cluster to understand their unique demographics, purchasing behaviors, and preferences. This will inform personalized business strategies.
+2. Develop Targeted Strategies: Based on segment insights, formulate and implement targeted marketing campaigns, product recommendations, and loyalty programs designed to maximize engagement and value for each specific customer group.
+3. Model Refinement and Exploration: Experiment with different feature sets, and continuously monitor cluster stability and evolution over time to ensure model relevance.
+4. Predictive Analytics: Leverage the established customer segments as a foundation for advanced predictive modeling, such as forecasting future purchase behavior, predicting churn risk, or estimating Customer Lifetime Value (CLTV).
 
 #### Outline of project
 Capstone Project -  UC Berkley - PG Program in AI and Machine Learning.ipynb
