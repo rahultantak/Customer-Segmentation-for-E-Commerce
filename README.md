@@ -46,6 +46,7 @@ What did your research find?
 9. Davies-Bouldin index was found to be relatively high and not close to 0.
 10. The clustering via KMeans method showed more clear disctnction / boundaris of the clusters for the same set of features. This was also supprted by better values for the metrics - Silhouette scores and Davies-Bouldin Index.
 11. Built GUI visuals of the Clusters using PowerBI three dashboards were developed - schreenshots and documentation is in the Jupyter Notebook file.
+12. Added Final Conclusion and Next Steps in the Jupyter notebook
 
 #### Outline of project
 Capstone Project -  UC Berkley - PG Program in AI and Machine Learning.ipynb
